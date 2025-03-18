@@ -8,3 +8,6 @@ def nova_funkcija():
     return "Ovo je nova funkcija."
 
 #Jabuka ne pada daleko od stabla
+
+def nova_metoda(self):
+    return "Ovo je nova metoda"
